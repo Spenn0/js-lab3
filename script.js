@@ -84,6 +84,7 @@ const findLowestScore = (array) => {
 console.log(findLowestScore(submissions));
 //8.Declare a function named findAverageScore ○Parameter(s): array ○Functionality: return the average quiz score. Use a for...of loop.
 
+const findAverageScore = (array) => {};
 //9.Declare a function named filterPassing ○Parameter(s): array ○Functionality: return a new array using the filter method. The filter method should find objects in the array that have passing scores.
 const filterPassing = (array) => {
   return array.filter((item) => {
